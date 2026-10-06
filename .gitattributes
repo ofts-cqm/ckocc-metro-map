@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# Preserve the exact editor export and its recorded checksum on every platform.
+maps/network.json -text
+*.png binary

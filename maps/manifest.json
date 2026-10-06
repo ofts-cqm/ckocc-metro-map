@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "editor": {
+    "id": "rail-map-painter",
+    "document_version": 80
+  },
+  "map_revision": "sha256:ea26faf2bb455a6319e236f538f1e5d3da700500e101e386a9855fa9701c1bc3",
+  "base_map_revision": null,
+  "base_commit_sha": null,
+  "operation_id": "bootstrap-2026-10-06",
+  "contributor_display_name": "ofts-cqm",
+  "summary": "Import the current administrator-supplied metro map",
+  "selected_issue_numbers": [],
+  "created_at": "2026-10-06T13:40:39Z",
+  "files": {
+    "json": {
+      "path": "maps/network.json",
+      "sha256": "d77a97be17eedcc438c676ac356aa9782a33d12902f8aabecab6458091d80b7d",
+      "bytes": 198454
+    },
+    "png": {
+      "path": "maps/network.png",
+      "sha256": "678d1fb7a9555be80e07549ed0f2c733807577e496d53e51ab55ea539da747bc",
+      "bytes": 7362193,
+      "width": 17577,
+      "height": 9095
+    }
+  }
+}
