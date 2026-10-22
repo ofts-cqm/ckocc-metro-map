@@ -2,30 +2,28 @@
   "schema_version": 1,
   "editor": {
     "id": "rail-map-painter",
-    "document_version": 80
+    "document_version": 81
   },
-  "map_revision": "sha256:9e84adf746a9ea66054f13ce07101683092df7119a219daa8ab18eb1f2f7b688",
-  "base_map_revision": "sha256:d8f6b755f8a53bbd68d8eb45623e9a95ef639729fdade2966aa14918b786fc56",
-  "base_commit_sha": "790adebe89c7a811e28a44d76b04b069feaeb585",
-  "operation_id": "10537e66-b7de-4aad-b8ad-4c9b684e4693",
-  "contributor_display_name": "OrangeTiger",
-  "summary": "更新了贯通线，空竹线，OF4线的错误位置",
+  "map_revision": "sha256:905cf8c4fdcdffb85d26ab5d5e8193777a1e3812f28749f5f3ee7db336ae6be9",
+  "base_map_revision": "sha256:9e84adf746a9ea66054f13ce07101683092df7119a219daa8ab18eb1f2f7b688",
+  "base_commit_sha": "8ef09e1aabb07ef17fa1c02ed8572f729795de81",
+  "operation_id": "9867225e-dfe6-4d95-8682-27040bbfabab",
+  "contributor_display_name": "OFTS_CQM",
+  "summary": "解决了一些bug，修正了一些翻译，移除了him",
   "selected_issue_numbers": [
-    5,
-    6,
-    4
+    9
   ],
-  "created_at": "2026-10-14T15:47:01.569Z",
+  "created_at": "2026-10-22T22:15:54.847Z",
   "files": {
     "json": {
       "path": "maps/network.json",
-      "sha256": "5f4492fa3571016f8f3021555542ece1aa63513ed3b22455518fc39d44bf4ba6",
-      "bytes": 217706
+      "sha256": "70fa1a54f8a257530b30c5b5258be575f59b263cdced77d8d8a05d418dc3872f",
+      "bytes": 219658
     },
     "png": {
       "path": "maps/network.png",
-      "sha256": "725253a7944922c4363d8135231612bc4fa90e363261fdd9a49d842993f325cd",
-      "bytes": 2889564,
+      "sha256": "a446a6561bda6678bdbea48d7060dae098f4a38f1276f388f24e7eefde0a2d56",
+      "bytes": 2899605,
       "width": 9354,
       "height": 4697
     }
