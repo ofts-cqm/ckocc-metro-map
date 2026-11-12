@@ -4,30 +4,26 @@
     "id": "rail-map-painter",
     "document_version": 81
   },
-  "map_revision": "sha256:033c65a83e76b2bd599a6a63a853bfb230fe6da73e1aef443e350021d214517f",
-  "base_map_revision": "sha256:905cf8c4fdcdffb85d26ab5d5e8193777a1e3812f28749f5f3ee7db336ae6be9",
-  "base_commit_sha": "a8ac5c89acaf99a99f6fdac5ae3badb4ae5da6b5",
-  "operation_id": "5b2de59d-3bb3-4133-a5ea-b0a68907788f",
+  "map_revision": "sha256:9abc3ec5bf3895b8e6f77f84071a3cf3f275da81faf22b3f07344a1188286558",
+  "base_map_revision": "sha256:033c65a83e76b2bd599a6a63a853bfb230fe6da73e1aef443e350021d214517f",
+  "base_commit_sha": "ed95183cc9e45d858156226188258c8898511ffd",
+  "operation_id": "32eedca5-754d-4d57-910a-4eca076b4df3",
   "contributor_display_name": "OrangeTiger",
-  "summary": "增改线路",
-  "selected_issue_numbers": [
-    14,
-    13,
-    2
-  ],
-  "created_at": "2026-11-09T16:15:16.137Z",
+  "summary": "视觉优化",
+  "selected_issue_numbers": [],
+  "created_at": "2026-11-12T12:45:51.302Z",
   "files": {
     "json": {
       "path": "maps/network.json",
-      "sha256": "3d3bed3316103cd4e0077e2f0372d54f84f5c23aa6afb075e9bd035adc1ab968",
-      "bytes": 227164
+      "sha256": "b70a7fe1b3f27692ac2b1f27260f00e61cbcbd8df1818a1e9da43297ebaaea34",
+      "bytes": 223444
     },
     "png": {
       "path": "maps/network.png",
-      "sha256": "fb668acec5621a0a0cf661ad0e09c986032d51dd2b59d945a8879b3d45cfc886",
-      "bytes": 2968376,
-      "width": 9354,
-      "height": 4697
+      "sha256": "d116c94ce5c98ab9414cdb6df6870a8d55f9dd137a64295f7be18271c0dc41a9",
+      "bytes": 5419889,
+      "width": 16231,
+      "height": 8034
     }
   }
 }
